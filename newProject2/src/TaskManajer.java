@@ -5,6 +5,7 @@ public class TaskManajer {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> task = new ArrayList<String>();
         //вывод доступных команд
+        //тут у меня изменения проекта по учебе гит. (локальный репозиторий есть, удаленного нет)
         System.out.println("Доступные команды: add, remove, done, exit");
         while (true) {
             //вывод списка задач
